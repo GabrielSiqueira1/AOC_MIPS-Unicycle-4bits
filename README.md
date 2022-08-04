@@ -5,3 +5,5 @@ Projeto de aprimoramento contínuo para a disciplina de arquitetura e organizaç
 <p align = "center">
 <img src="https://i.stack.imgur.com/yKd5c.png"> </img>
 </p>
+
+The main ideia here is the learn how computer working, how then organize, in the hardware and software view.

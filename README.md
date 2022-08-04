@@ -1,9 +1,18 @@
 # AOC_MIPS-Unicycle-4bits
 
-Projeto de aprimoramento contínuo para a disciplina de arquitetura e organização de computadores 1, utilizando como base um processador de 32 bits como apresentado abaixo:
+Project of continuous enchancing for computer organization and architecture I. Based in the 32 bits processor below:
+
 
 <p align = "center">
 <img src="https://i.stack.imgur.com/yKd5c.png"> </img>
 </p>
 
-The main ideia here is the learn how computer working, how then organize, in the hardware and software view.
+The main ideia here is to learn how computer working, how they organize, in the hardware and software view. Course topics:
+
+- Introduction set architecture, operation in hardware, MIPS computer;
+- Assembly
+- Performance analysis
+.
+.
+.
+- Multiprocess

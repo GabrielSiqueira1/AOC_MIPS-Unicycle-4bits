@@ -1,7 +1,6 @@
 # AOC_MIPS-Unicycle-4bits
 
-Project of continuous enchancing for computer organization and architecture I. Based in the 32 bits processor below:
-
+Project of continuous enhancing for computer organization and architecture I. Based on the 32 bits processor below:
 
 <p align = "center">
 <img src="https://i.stack.imgur.com/yKd5c.png"> </img>
